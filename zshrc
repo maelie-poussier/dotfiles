@@ -42,3 +42,8 @@ export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
+export DISPLAY=fe80::229a:7dff:fe2a:eec0
+2a01:cb05:8568:3100:229a:7dff:fe2a:eec0
+192.168.1.1:0
+if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
